@@ -1,8 +1,7 @@
-# React + Vite
+# Q&A
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esse é um pequeno projeto em React de perguntas e respostas, no qual ao final das perguntas é exibido quantas questões foram acertadas e se houver erros, também é exibida uma lista com quais questões receberam a resposta errada.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Obs: O projeto tem pouquissíma estilização CSS.
+2. Obs: O projeto tem apenas um componente (input radio).
+3. Obs: Têm algumas features que podem ser adicionadas, mas o propósito básico foi atingido.
